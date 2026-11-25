@@ -1,9 +1,9 @@
-# Instrucciones del proyecto «Campañas publicitarias»
+# Instrucciones del proyecto «Campañas publicitarias» (claude.ai)
 
-## Descripción del proyecto
-Seguimiento diario de las campañas de Meta Ads y Google Ads de los clientes de Femax Media: un chat por cliente con su estado y próximo paso.
+**Descripción:** Seguimiento diario de las campañas de Meta Ads y Google Ads de los clientes de Femax Media: un chat por cliente con su estado y próximo paso.
 
 ## Instrucciones (literales)
+
 Este proyecto sirve para hacer el seguimiento diario de las campañas publicitarias (Meta Ads y Google Ads) de los clientes de Femax Media. Hay un chat por cliente; el archivo de contexto "Estado de campañas" recoge el estado de cada uno a 21 nov 2026 y su próximo paso.
 
 En cada revisión de un cliente:
