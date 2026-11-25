@@ -15,7 +15,7 @@
 
 ## Criterio de decisión
 - Jueves 27 nov: mirar la entrega, sin tocar nada.
-- Lunes 1 dic [REVISAR: el 1 dic es martes]: con 5 o más leads en la semana (~35 €/lead o menos) y buenos para Íñigo, subir a 35–50 €/día. Con menos de 3, revisar los anuncios antes de meter más presupuesto.
+- Martes 1 dic: con 5 o más leads en la semana (~35 €/lead o menos) y buenos para Íñigo, subir a 35–50 €/día. Con menos de 3, revisar los anuncios antes de meter más presupuesto.
 - Para más adelante: tener 1 o 2 vídeos nuevos de Íñigo a cámara con ganchos distintos (p. ej. «si tu casa lleva meses en el portal…»).
 
 ## Estado

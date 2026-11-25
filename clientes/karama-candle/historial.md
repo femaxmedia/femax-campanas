@@ -16,7 +16,10 @@
 - Recomendación: no lanzar una tercera campaña; añadir la publicación antigua del IMG 2; valorar el formulario de Meta para Navidad (lo decide Mili).
 - Decisión de Mili: Meta solo en velas; recipientes pausada; reel de Maider como anuncio nuevo. Se arreglan el 404 en /recipientes-registro y el disparo del Lead.
 - Prioridades: subir velas a 15–20 €/día y quitar Audience Network; descartar el borrador de recipientes; bajar los 11 s de carga del checkout.
-- Documento de estado: V.3 a 18 €/día, solo FB e IG, 5 km, con IMG 1–4 y VID 1 | COLABORACIÓN. [REVISAR: no coincide con el borrador de 12 € y 20 km; vale lo que esté publicado]
+- Documento de estado: V.3 a 18 €/día, solo FB e IG, 5 km, con IMG 1–4 y VID 1 | COLABORACIÓN. Comprobado el 25 nov en Meta: publicado a 18 €/día y 6 km (el borrador de 12 € y 20 km no se aplicó).
+
+## 25 nov 2026 (comprobación en Meta)
+- V.3 velas publicada a 18 €/día y 6 km del Guggenheim, solo FB e IG. Recipientes sigue pausada (10 €/día, 5 km).
 
 ## ESTADO ACTUAL (21 nov 2026, según el documento de estado)
 - **Activa:** V.3 | FORM | LANDING | VELAS, conjunto BILBAO | TALLERES VELAS, 18 €/día, solo FB e IG.

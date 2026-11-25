@@ -2,7 +2,7 @@
 
 - **Plataforma:** Meta Ads — 2237541826642480
 - **Objetivo:** compras (retargeting).
-- **Presupuesto:** de 40 a 70 €/día (estructura del 19 nov). Prioridad del 21 nov: subirlo hacia los 70 €/día para la semana de BF. [REVISAR: si se subió]
+- **Presupuesto:** de 40 a 70 €/día (estructura del 19 nov). Prioridad del 21 nov: subirlo hacia los 70 €/día para la semana de BF. **No se ha subido: sigue a 40 €/día** (conjunto «CALIENTES + CLIENTES | USA+UK») (verificado en Meta el 25 nov).
 - **Resultados:**
   - 7 días a ~21 nov: 50,61 €, 2 compras, 25,31 €/compra, ROAS 3,77.
   - 20–23 nov: ROAS 3,03.

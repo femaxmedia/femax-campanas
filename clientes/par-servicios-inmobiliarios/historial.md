@@ -20,4 +20,4 @@
 - **Presupuesto de noviembre:** máximo 500 €; gastado 289,07 €; a 33 €/día cerraría en ~487 €.
 - **Decisiones tomadas:** solo el V5; no tocar nada hasta la revisión.
 - **Pendiente:** GHL/LeadConnector; recorte de la IMG 1.
-- **Próximo paso:** 25 nov, confirmar que los anuncios están aprobados. Lunes 1 dic [REVISAR: martes], revisar coste por lead, volumen y la calidad según Santi, y fijar el presupuesto de diciembre.
+- **Próximo paso:** 25 nov, confirmar que los anuncios están aprobados. Martes 1 dic, revisar coste por lead, volumen y la calidad según Santi, y fijar el presupuesto de diciembre.

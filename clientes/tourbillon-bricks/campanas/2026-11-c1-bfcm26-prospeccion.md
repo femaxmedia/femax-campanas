@@ -2,7 +2,7 @@
 
 - **Plataforma:** Meta Ads — 2237541826642480
 - **Objetivo:** compras. Prospección en USA y UK.
-- **Presupuesto:** USA 230 €/día y UK 190 €/día según la estructura del 19 nov. [REVISAR: si se mantiene]
+- **Presupuesto:** USA 230 €/día y UK 190 €/día (conjuntos «USA | ABIERTO» y «UK | ABIERTO»). Se mantiene (verificado en Meta el 25 nov).
 - **Anuncios mencionados:** LOWEST PRICE B, 3x2 THE PIECES, BF_VENTA_4, BF_VENTA_5. Etiquetas de oferta [20] y [3x2].
 - **Resultados:**
   - 7 días a ~21 nov: 610,04 €, 9 compras, 67,78 €/compra, ROAS 1,45.

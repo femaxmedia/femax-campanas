@@ -1,12 +1,13 @@
 # Black Month (V.2) — Black Friday ICON
 
 - **Plataforma:** Meta Ads — 2264984720966986
-- **Nombre exacto:** [REVISAR] (en los chats: «Black Month», «Black Month V.2»)
+- **Nombre exacto:** V.2 | [FxM] VENTA | BLACK MONTH | NOVIEMBRE (ID 120251110197680055)
 - **Objetivo:** ventas (compras).
-- **Fechas:** noviembre 2026; en marcha a 20 nov. Fin: [REVISAR]
+- **Fechas:** desde el 20 nov 2026; sin fecha de fin.
 - **Presupuesto:**
   - 20 nov: 38 €/día.
   - 24 nov, decidido: 45 €/día.
+  - 25 nov: **53 €/día** publicado (verificado en Meta el 25 nov).
   - Escalado previsto: miércoles 25 a 54 € y jueves 26 a 65 €. Antes se había propuesto 48 → 58 → 68 €; quedó 45 → 54 → 65 €.
 - **Ubicaciones:** Audience Network se mantiene (1,4 % del gasto; 95 clics y 770 impresiones, un CTR del 12 %, probablemente clics accidentales). Se revisa después de Black Friday; si con más presupuesto pasa del 5 % del gasto, se quita.
 

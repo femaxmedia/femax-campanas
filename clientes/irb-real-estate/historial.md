@@ -22,5 +22,5 @@
 - **V.2 | CAPTACIÓN | FORM NATIVO:** activa, 25 €/día, Barcelona +30 km, FB e IG, formulario «FxM | V.1 | CAPTACIÓN», anuncios AD 4, AD 5, AD 6 e IMG 1 en revisión. Sin cambios pendientes.
 - **Casa Valldoreix:** en borrador (no publicar «IMG 2 | COMPRADORES»).
 - **Decisiones tomadas:** empezar con 25 €/día y subir si funciona; solo formulario nativo; no tocar nada en unos 7 días.
-- **Próximos pasos:** jueves 27 nov, mirar la entrega sin tocar nada. Lunes 1 dic [REVISAR: martes], con 5 o más leads buenos subir a 35–50 €/día; con menos de 3, revisar los anuncios.
+- **Próximos pasos:** jueves 27 nov, mirar la entrega sin tocar nada. Martes 1 dic, con 5 o más leads buenos subir a 35–50 €/día; con menos de 3, revisar los anuncios.
 - **Pendiente:** facturación (método de pago); quitar «Comentarios relevantes» en el AD 4 y el AD 5.

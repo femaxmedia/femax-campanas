@@ -28,7 +28,7 @@
 - Google Ads de la tienda: ID [REVISAR]
 
 ## Presupuesto habitual
-- Meta (24 nov): Nexaleads Microlíneas 18 €/día, Extensiones 20 €/día, Stop&Grow 15 €/día, Balayage 10 €/día. Microlíneas 2026.11: [REVISAR]. Tope total: [REVISAR]
+- Meta (24 nov): Nexaleads Microlíneas 18 €/día, Extensiones 20 €/día, Stop&Grow 15 €/día, Balayage 10 €/día. Microlíneas 2026.11: 1.200 € totales hasta el 26 nov. Tope total: [REVISAR]
 
 ## KPIs
 - Peluquería: coste por lead. Media de anunciantes parecidos según Meta: ~5,71 €.

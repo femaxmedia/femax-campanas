@@ -20,6 +20,10 @@
 - Datos del 20 al 23 nov: Black Month ROAS 5,12; India ROAS 2,31.
 - Decisión: pausar India; Black Month a 45 € (luego 54 y 65 €); Audience Network se mantiene; 3 variantes de CHAMPÚS encargadas a Alex.
 
+## 25 nov 2026 (comprobación en Meta)
+- Black Month publicada a 53 €/día. India V.2 pausada.
+- ⚠️ El retargeting «V.1 | [FxM] RETARGETING | BLACK MONTH | NOV» está **pausado**, aunque se había decidido mantenerlo hasta Black Friday. [REVISAR: ¿reactivar?]
+
 ## ESTADO ACTUAL (24 nov 2026)
 - **Activo:** Black Month a 45 €/día (desde 38) y Retargeting a 5 €/día. India V.2 pasa a pausa.
 - **En borrador:** India consolidada (por borrar).

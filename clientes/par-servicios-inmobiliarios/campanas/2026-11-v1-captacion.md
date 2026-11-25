@@ -2,7 +2,7 @@
 
 - **Plataforma:** Meta Ads — 1332723982387464
 - **Objetivo:** leads de propietarios (categoría Vivienda).
-- **Fechas:** desde el 17 nov 2026 aprox. [REVISAR]
+- **Fechas:** desde el 18 nov 2026 (conjunto V4; la landing desde el 19 nov) (verificado en Meta el 25 nov).
 - **Segmentación:** Comunidad de Madrid (región 1019), 18–65 años, personas que viven allí o han estado hace poco. Solo Facebook e Instagram desde el 21 nov.
 
 ## Conjuntos
@@ -15,7 +15,7 @@
 - Anuncios: IMG 1, IMG 2, IMG 3 (el AD 5 de este conjunto, pausado).
 
 ### MADRID | FORMULARIO NATIVO V5
-- Creado el 24 nov. 25 €/día; Mili lo pasa a 33 €/día. [REVISAR: confirmar que lo publicó]
+- Creado el 24 nov. 25 €/día; Mili lo pasa a 33 €/día: **publicado a 33 €/día** (verificado en Meta el 25 nov). ID 52647813878332.
 - Comunidad de Madrid, 18–65, Advantage+ activado (para intentar bajar el CPM), solo FB e IG.
 - Formulario 2908047022910772.
 - Anuncios: AD 5 (vídeo), AD 7 (vídeo) e IMG 1, todos con el mismo texto y el título «Vende tu propiedad en Madrid». Mili habló de «el 4 y el 7»; en la cuenta no hay AD 4, son el AD 5 y el AD 7.

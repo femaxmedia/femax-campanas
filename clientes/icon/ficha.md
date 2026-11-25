@@ -12,7 +12,7 @@
 - Black Friday 2026: campaña «Black Month» en Meta. El email de apoyo lo lleva un equipo externo (Abalola).
 
 ## Público
-- Meta: mujeres. Hay un conjunto «V.6 AB MUJERES 37-58» con fatiga creativa (20 nov). [REVISAR: de qué campaña es]
+- Meta: mujeres. Hay un conjunto «V.6 AB MUJERES 37-58» con fatiga creativa (20 nov). Hay varios conjuntos con ese nombre en las campañas de octubre (Cure) y de India, todos pausados a 25 nov; Meta seguía marcando fatiga en «V.6 | AB | MUJERES | 37-58».
 - En Meta, Instagram vende más del doble que Facebook (ROAS 6,64 frente a 2,77; dato del 24 nov).
 
 ## Tono y creatividades

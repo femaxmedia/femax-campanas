@@ -7,9 +7,9 @@
 - **Segmentación:** Barcelona +17 km (personas que viven allí o han estado hace poco). Solo Facebook e Instagram desde el 21 nov: se quitó Audience Network porque inflaba los clics, y con él desapareció Threads en la landing.
 
 ## Conjuntos
-- **BARCELONA | FORM NATIVO:** 25 €/día. El 24 nov figuraba a 35 €/día. [REVISAR: cuándo cambió]
+- **BARCELONA | FORM NATIVO:** 25 €/día. Al pausarse estaba a **35 €/día** (verificado en Meta el 25 nov); la fecha exacta del cambio no consta.
   - Anuncios: AD 4, AD 5, AD 6, IMG 1 Comparativa, IMG 2 Se vende casa, IMG 3. [REVISAR: lista exacta de estáticas]
-- **BARCELONA | LANDING | FORMULARIO** (ID 120255739593060166): 25 €/día, luego 15 €/día. [REVISAR]
+- **BARCELONA | LANDING | FORMULARIO** (ID 120255739593060166): 25 €/día, luego 15 €/día (confirmado: 15 €/día al pausarse, verificado en Meta el 25 nov).
   - Anuncios: AD 4 | CAPTACIÓN | V2 (post nuevo), publicado el 21 nov porque el AD 4 original tenía malos comentarios. También AD 5, AD 6, AD 7 e IMG 1.
   - Destino: https://propietarios.irbrealestate.com/pgina-principal (CTA «Más información»).
 

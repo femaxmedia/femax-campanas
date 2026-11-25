@@ -1,10 +1,10 @@
 # V.2 | FORM | LANDING | RECIPIENTES
 
 - **Plataforma:** Meta Ads — cuenta 26051144467865567
-- **ID de campaña:** 120250393473060467 · **ID de conjunto:** 120250393473110467 [REVISAR: confirmar que corresponden a recipientes]
+- **ID de campaña:** 120250393473060467 · **Conjunto «BILBAO | TALLER RECIPIENTES | NOVIEMBRE»:** 120250393473110467 (verificado en Meta el 25 nov)
 - **Objetivo:** leads en la landing de recipientes (formrecipientes.karamacandle.com).
 - **Fechas:** desde el 18 nov 2026; pausada el 21 nov.
-- **Presupuesto:** 10 €/día. Hubo un borrador a 8 €/día con 20 km que quedó sin uso y había que descartarlo. [REVISAR: confirmar que se descartó]
+- **Presupuesto:** 10 €/día. El borrador a 8 €/día con 20 km no se publicó: el conjunto sigue a 10 €/día y 5 km (verificado en Meta el 25 nov).
 - **Segmentación:** mujeres de 18 a 65 años, 5 km alrededor del Guggenheim.
 - **Resultados:**
   - Chat del 21 nov: 27,57 €, 53 visitas, 0 leads atribuidos.

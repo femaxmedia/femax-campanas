@@ -4,8 +4,8 @@
 - **ID de campaña:** 120250855852150467 · **Conjunto «BILBAO | TALLERES VELAS»:** 120250855852230467
 - **Objetivo:** leads en landing — form.karamacandle.com. Píxel [FxM] TALLERES.
 - **Fechas:** desde el 20 nov 2026.
-- **Presupuesto:** 15 €/día al inicio. El 21 nov por la mañana quedó un borrador a 12 €/día con 20 km. Según el documento de estado (21 nov), 18 €/día. [REVISAR: confirmar el presupuesto publicado]
-- **Segmentación (documento de estado):** mujeres de 18 a 65 años a 5 km del Guggenheim, solo Facebook e Instagram. El borrador del 21 nov proponía 20 km (Gran Bilbao), sin Advantage+ Audience. [REVISAR: radio publicado]
+- **Presupuesto:** 15 €/día al inicio. El 21 nov por la mañana quedó un borrador a 12 €/día con 20 km. Publicado: **18 €/día** en el conjunto (verificado en Meta el 25 nov).
+- **Segmentación (documento de estado):** mujeres de 18 a 65 años a 5 km del Guggenheim, solo Facebook e Instagram. El borrador del 21 nov proponía 20 km, pero lo publicado es **6 km** alrededor del Guggenheim, mujeres 18–65, sin Advantage+ Audience, solo Facebook e Instagram (verificado en Meta el 25 nov).
 
 ## Creatividades
 - IMG 1 (se llevaba el 70 % del gasto el 21 nov).
@@ -18,7 +18,7 @@
 - A 21 nov: 9,84 €, 21 visitas, 0 leads (brief: 5,90 € y 0 leads; recién arrancada).
 
 ## Próximo paso
-- Mié 26 – jue 27 nov [REVISAR: el 26 es jueves]: revisar el coste por lead de cada anuncio y apagar los que pasen de 8 € con gasto razonable. No tocar antes.
+- Jue 26 – vie 27 nov: revisar el coste por lead de cada anuncio y apagar los que pasen de 8 € con gasto razonable. No tocar antes.
 - Ver el CPL del reel de Maider y confirmar que los leads se registran bien tras el arreglo del píxel.
 
 ## Estado

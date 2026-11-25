@@ -21,6 +21,9 @@
 ## 25 nov 2026
 - Google sigue sin poder publicarse: productos sin aprobar y 0 compras registradas en la conversión de compra.
 
+## 25 nov 2026 (comprobación en Meta)
+- C1 se mantiene a 230 € (USA) y 190 € (UK). C2 a 40 €. C3 sigue a 40 €/día: no se ha subido hacia los 70 € previstos.
+
 ## ESTADO ACTUAL (25 nov 2026)
 - **Google:** PMax `BFCM26 | PMax | USA+UK` en pausa y sin gasto. Productos USD/GBP en «Pending initial review» (0 aprobados). Conversión de compra a 0, posiblemente porque no se registran las compras.
 - **Meta:** sin cambios desde el 24. C1, C2 y C3 activas.

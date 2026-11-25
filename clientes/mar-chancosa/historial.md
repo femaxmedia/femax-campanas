@@ -16,9 +16,13 @@
 ## 25 nov 2026
 - AD6: titular cambiado a «Estudio de color gratuito en Valencia» y descripción «Balayage con Método BRA, sin raíz marcada». Guardado en borrador sin errores, listo para publicar.
 
+## 25 nov 2026 (comprobación en Meta)
+- AD6_2026_MECHAS publicado y activo. Stop&Grow ya está en solo mujeres.
+- ⚠️ Microlíneas 2026.11 tiene un presupuesto total de 1.200 € que acaba el **26 nov a las 16:18** (quedan 36,55 €). Hay que decidir si se renueva.
+
 ## ESTADO ACTUAL (25 nov 2026)
 - **Activo:** Microlíneas 2026.11 (formulario) con AD2; Nexaleads Microlíneas (18 €/día); Extensiones (20 €/día) con AD4 y AD5; Stop&Grow (15 €/día, mujeres) con AD8; Balayage V.2 (10 €/día) con AD 1 y AD 3.
 - **En borrador:** AD6_2026_MECHAS en Balayage (único borrador de la cuenta).
 - **Google Ads de la tienda:** pausado.
 - **Pendiente:** publicar el AD6; decidir sobre Audience Network en Microlíneas y Balayage; estáticas de Alex (Microlíneas el 24, Extensiones el viernes 27); respuesta de Daniel a la prueba con formulario en Extensiones.
-- **Próximo paso:** lunes 1 dic [REVISAR: martes], comparar los vídeos nuevos (AD2, AD4, AD5, AD6, AD8) con los anuncios actuales.
+- **Próximo paso:** martes 1 dic, comparar los vídeos nuevos (AD2, AD4, AD5, AD6, AD8) con los anuncios actuales.

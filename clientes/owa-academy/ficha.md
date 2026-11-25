@@ -21,7 +21,7 @@
 - GHL: automatización de WhatsApp en curso (plantilla, recordatorio a las 24 h y segundo recordatorio; faltan las plantillas aprobadas y el webhook).
 
 ## Presupuesto habitual
-- [REVISAR] (~68 € en 7 días a 21 nov). Límite acordado con OWA: [REVISAR]
+- 10 €/día en el lead magnet (~68–71 € por semana). Límite acordado con OWA: [REVISAR]
 
 ## KPIs
 - CPL por debajo de 3 € es muy bueno; de 4 a 6 € es naranja; más es alarmante.
